@@ -1,11 +1,11 @@
-package Polymorphism;
+package polymorphism;
 
 public class Main {
     public static void main(String[] args) {
-        Animal sparrow = new Bird();
+        Bird sparrow = new Bird();
         sparrow.makeSound();
 
-        Animal starFish = new AquaticAnimal();
+        AquaticAnimal starFish = new AquaticAnimal();
         starFish.move();
 
     }

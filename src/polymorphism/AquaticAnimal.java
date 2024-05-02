@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism;
 
 public class AquaticAnimal extends Animal{
     @Override
