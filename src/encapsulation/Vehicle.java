@@ -10,7 +10,7 @@ public class Vehicle {
     private String make;
 
     public void setNoOfTyres(int noOfTyres) {
-        if(noOfTyres < 1){
+        if(noOfTyres < 1 || noOfTyres > 10){
             System.out.println("Invalid Tyre no");
         }
         this.noOfTyres = noOfTyres;
