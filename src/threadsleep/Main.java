@@ -1,4 +1,4 @@
-package thread_sleep;
+package threadsleep;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException{

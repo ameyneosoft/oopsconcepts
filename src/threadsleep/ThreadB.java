@@ -1,4 +1,4 @@
-package thread_sleep;
+package threadsleep;
 
 public class ThreadB extends Thread{
     ThreadA ta;

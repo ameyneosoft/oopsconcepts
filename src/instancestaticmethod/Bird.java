@@ -1,4 +1,4 @@
-package instance_static_method;
+package instancestaticmethod;
 
 public class Bird extends Animal{
     @Override

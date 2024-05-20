@@ -1,4 +1,4 @@
-package callByValueAndReference;
+package callbyvalueandreference;
 
 import lombok.AllArgsConstructor;
 import lombok.ToString;

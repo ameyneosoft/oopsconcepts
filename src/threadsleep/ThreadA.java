@@ -1,6 +1,4 @@
-package thread_sleep;
-
-import static java.lang.Thread.currentThread;
+package threadsleep;
 
 public class ThreadA extends Thread {
     @Override
